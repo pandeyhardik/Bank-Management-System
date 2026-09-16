@@ -1,0 +1,6 @@
+# IntelliJ / Java
+out/
+*.class
+
+# macOS
+.DS_Store
